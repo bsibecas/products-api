@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Chicken Sandwich",
       "price": 7.99,
-      "image": "https://www.pexels.com/photo/delicious-chicken-sandwich-with-side-of-fries-33014398/",
+      "image": "https://images.pexels.com/photos/33014398/pexels-photo-33014398.jpeg",
       "stock": 5,
       "category": "Meal"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Cheese & Crackers",
       "price": 5.5,
-      "image": "https://unsplash.com/photos/brown-biscuits-on-white-ceramic-plate-ogoLAJboB6o",
+      "image": "https://images.unsplash.com/photo-1615294209152-571969a7fbfe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2069",
       "stock": 7,
       "category": "Snack"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Orange Juice",
       "price": 3.5,
-      "image": "https://unsplash.com/photos/orange-juice-pack-fb9PlhkuXm4",
+      "image": "https://images.unsplash.com/photo-1550234699-2ebb2d96dfa7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987",
       "stock": 12,
       "category": "Drink"
     },
