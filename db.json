@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Chicken Sandwich",
       "price": 7.99,
-      "image": "https://images.unsplash.com/photo-1606755962773-0e50b12d51c3",
+      "image": "https://www.pexels.com/photo/delicious-chicken-sandwich-with-side-of-fries-33014398/",
       "stock": 5,
       "category": "Meal"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Fruit Salad",
       "price": 4.99,
-      "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "image": "https://www.pexels.com/photo/close-up-photo-of-burrito-2955819/",
       "stock": 10,
       "category": "Snack"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Cheese & Crackers",
       "price": 5.5,
-      "image": "https://images.unsplash.com/photo-1570197782592-98aa7aa60b7c",
+      "image": "https://unsplash.com/photos/brown-biscuits-on-white-ceramic-plate-ogoLAJboB6o",
       "stock": 7,
       "category": "Snack"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Orange Juice",
       "price": 3.5,
-      "image": "https://images.unsplash.com/photo-1577801592247-69b3a1d2a7aa",
+      "image": "https://unsplash.com/photos/orange-juice-pack-fb9PlhkuXm4",
       "stock": 12,
       "category": "Drink"
     },
@@ -44,7 +44,7 @@
       "id": 5,
       "name": "Water Bottle",
       "price": 2.5,
-      "image": "https://images.unsplash.com/photo-1577801592247-69b3a1d2a7aa",
+      "image": "https://www.pexels.com/photo/fluid-pouring-in-pint-glass-416528/",
       "stock": 15,
       "category": "Drink"
     }
