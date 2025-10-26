@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Vegetarian Wrap",
       "price": 6.49,
-      "image": "https://images.unsplash.com/photo-1625948513307-3b8a7b7a6a27",
+      "image": "https://images.pexels.com/photos/12464909/pexels-photo-12464909.jpeg",
       "stock": 3,
       "category": "Meal"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Fruit Salad",
       "price": 4.99,
-      "image": "https://www.pexels.com/photo/close-up-photo-of-burrito-2955819/",
+      "image": "https://images.pexels.com/photos/1546896/pexels-photo-1546896.jpeg",
       "stock": 10,
       "category": "Snack"
     },
@@ -41,10 +41,10 @@
       "category": "Drink"
     },
      {
-      "id": 5,
+      "id": 6,
       "name": "Water Bottle",
       "price": 2.5,
-      "image": "https://www.pexels.com/photo/fluid-pouring-in-pint-glass-416528/",
+      "image": "https://lascampanasdeflorenciacuarte.com/104-medium_default/botella-de-agua-15-l-aquabona.jpg",
       "stock": 15,
       "category": "Drink"
     }
