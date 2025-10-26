@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Chicken Sandwich",
       "price": 7.99,
-      "image": "https://images.unsplash.com/photo-1606755962773-0e50b12d51c3?auto=format&fit=crop&w=1000&q=80",
+      "image": "https://images.pexels.com/photos/33014398/pexels-photo-33014398.jpeg",
       "stock": 5,
       "category": "Meal"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Vegetarian Wrap",
       "price": 6.49,
-      "image": "https://images.unsplash.com/photo-1625948513307-3b8a7b7a6a27?auto=format&fit=crop&w=1000&q=80",
+      "image": "https://images.unsplash.com/photo-1625948513307-3b8a7b7a6a27",
       "stock": 3,
       "category": "Meal"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Fruit Salad",
       "price": 4.99,
-      "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.pexels.com/photo/close-up-photo-of-burrito-2955819/",
       "stock": 10,
       "category": "Snack"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Cheese & Crackers",
       "price": 5.5,
-      "image": "https://images.unsplash.com/photo-1570197782592-98aa7aa60b7c?auto=format&fit=crop&w=1000&q=80",
+      "image": "https://images.unsplash.com/photo-1615294209152-571969a7fbfe?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2069",
       "stock": 7,
       "category": "Snack"
     },
@@ -36,15 +36,15 @@
       "id": 5,
       "name": "Orange Juice",
       "price": 3.5,
-      "image": "https://images.unsplash.com/photo-1577801592247-69b3a1d2a7aa?auto=format&fit=crop&w=1000&q=80",
+      "image": "https://images.unsplash.com/photo-1550234699-2ebb2d96dfa7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987",
       "stock": 12,
       "category": "Drink"
     },
-    {
-      "id": 6,
+     {
+      "id": 5,
       "name": "Water Bottle",
       "price": 2.5,
-      "image": "https://images.unsplash.com/photo-1526403228293-4aa3c9f5afc9?auto=format&fit=crop&w=1000&q=80",
+      "image": "https://www.pexels.com/photo/fluid-pouring-in-pint-glass-416528/",
       "stock": 15,
       "category": "Drink"
     }
