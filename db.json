@@ -34,6 +34,14 @@
     },
     {
       "id": 5,
+      "name": "Almonds",
+      "price": 4.5,
+      "image": "https://images.pexels.com/photos/4753649/pexels-photo-4753649.jpeg",
+      "stock": 0,
+      "category": "Drink"
+    },
+    {
+      "id": 6,
       "name": "Orange Juice",
       "price": 3.5,
       "image": "https://images.unsplash.com/photo-1550234699-2ebb2d96dfa7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=987",
@@ -41,7 +49,7 @@
       "category": "Drink"
     },
      {
-      "id": 6,
+      "id": 7,
       "name": "Water Bottle",
       "price": 2.5,
       "image": "https://lascampanasdeflorenciacuarte.com/104-medium_default/botella-de-agua-15-l-aquabona.jpg",
