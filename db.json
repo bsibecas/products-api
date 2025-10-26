@@ -5,28 +5,48 @@
       "name": "Chicken Sandwich",
       "price": 7.99,
       "image": "https://images.unsplash.com/photo-1606755962773-0e50b12d51c3",
-      "stock": 5
+      "stock": 5,
+      "category": "Meal"
     },
     {
       "id": 2,
       "name": "Vegetarian Wrap",
       "price": 6.49,
       "image": "https://images.unsplash.com/photo-1625948513307-3b8a7b7a6a27",
-      "stock": 3
+      "stock": 3,
+      "category": "Meal"
     },
     {
       "id": 3,
       "name": "Fruit Salad",
       "price": 4.99,
       "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-      "stock": 10
+      "stock": 10,
+      "category": "Snack"
     },
     {
       "id": 4,
       "name": "Cheese & Crackers",
       "price": 5.5,
       "image": "https://images.unsplash.com/photo-1570197782592-98aa7aa60b7c",
-      "stock": 7
+      "stock": 7,
+      "category": "Snack"
+    },
+    {
+      "id": 5,
+      "name": "Orange Juice",
+      "price": 3.5,
+      "image": "https://images.unsplash.com/photo-1577801592247-69b3a1d2a7aa",
+      "stock": 12,
+      "category": "Drink"
+    },
+     {
+      "id": 5,
+      "name": "Water Bottle",
+      "price": 2.5,
+      "image": "https://images.unsplash.com/photo-1577801592247-69b3a1d2a7aa",
+      "stock": 15,
+      "category": "Drink"
     }
   ]
 }
